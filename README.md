@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Arvinrana
-- 👀 I’m interested in 
 - 🌱 I’m currently learning git and git hub
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
